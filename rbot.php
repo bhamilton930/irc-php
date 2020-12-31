@@ -5,7 +5,7 @@
  *
  * @category   Chat Room Scipt
  * @package    Simple PHP IRC Logger
- * heavy mods and based on the following: http://wildphp.com
+
  */
 
 //So the bot doesn't stop.
